@@ -1,8 +1,10 @@
+import Nav from "./components/Nav"
 
 export default function App() {
   return (
     <>
-      <h1>IGA Bridport</h1>
+      <Nav />
+      <div>IGA Bridport</div>
     </>
   )
 }
