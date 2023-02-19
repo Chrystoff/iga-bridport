@@ -9,7 +9,7 @@ export default function Nav() {
             <div class="navbar-brand">
                 <a
                     class="navbar-item" href="#">
-                    <img src="../../public/iga_logo.svg" alt="Failed to load image"/>
+                    <img src="../../iga_logo.svg" alt="Failed to load image"/>
                 </a>
                 <a
                     onClick={() => {
